@@ -11,5 +11,3 @@ This is a simple rock-paper-scissors game implemented in Python.
 3. The computer will randomly select its choice.
 4. The result of the game will be displayed.
 
-#CODE
-
